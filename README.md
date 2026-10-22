@@ -1,4 +1,4 @@
-# Noor — Stories of the Prophets (starter app)
+# Prophets Of Islam— Stories of the Prophets (starter app)
 
 This is a responsive, installable web-app prototype designed to be the first version of Prophets Of Islam. It is **not yet a native Android package and is not published on Google Play**.
 
