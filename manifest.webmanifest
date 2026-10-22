@@ -1,0 +1,9 @@
+{
+  "name": "Noor — Stories of the Prophets",
+  "short_name": "Noor",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f4ec",
+  "theme_color": "#123c35",
+  "description": "Quran-first stories of the Prophets for the whole family."
+}
