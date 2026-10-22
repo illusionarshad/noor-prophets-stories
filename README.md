@@ -32,7 +32,7 @@ For a quick local preview, open `index.html` in a browser or upload the project 
 
 ## Planned app identity
 - Working title: Prophets Of Islam
-- Suggested Android package ID: `org.noor.prophetstories` (confirm availability before release)
+- Suggested Android package ID: `org.ProphetsofIslam.app` (confirm availability before release)
 - Initial audience: family-friendly, English/Urdu/Hindi
 - Monetization: voluntary support; no payment integration in this prototype
 
