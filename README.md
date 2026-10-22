@@ -31,7 +31,7 @@ For a quick local preview, open `index.html` in a browser or upload the project 
 5. Add privacy policy, data-safety declarations, content rating, app icon/screenshots and donation flow only after reviewing current Play policies.
 
 ## Planned app identity
-- Working title: Noor — Stories of the Prophets
+- Working title: Prophets Of Islam
 - Suggested Android package ID: `org.noor.prophetstories` (confirm availability before release)
 - Initial audience: family-friendly, English/Urdu/Hindi
 - Monetization: voluntary support; no payment integration in this prototype
